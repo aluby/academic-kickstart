@@ -1,0 +1,15 @@
+# Font style metadata
+name = "amanda"
+
+# Optional Google font URL
+google_fonts = "Satisfy:400,400i|Karla:400,700|Roboto+Mono"
+
+# Font families
+heading_font = "Satisfy"
+body_font = "Karla"
+nav_font = "Satisfy"
+mono_font = "Roboto Mono"
+
+# Font size
+font_size = "16"
+font_size_small = "14"

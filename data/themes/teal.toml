@@ -1,0 +1,22 @@
+# Theme metadata
+name = "Teal"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#008080"
+primary_light = "#757de8"
+primary_dark = "#002984"
+
+# Menu
+menu_primary = "#008080" # 500
+menu_text = "#FFFFFF"
+menu_text_active = "#D3D3D3" # A100
+menu_title = "#FFFFFF"
+
+# Home sections
+home_section_odd = "#D3D3D3"
+home_section_even = "#D3D3D3"
+
+link = "#008080"
